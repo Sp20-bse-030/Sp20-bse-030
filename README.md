@@ -7,8 +7,8 @@
 📊 GitHub Stats
 
 📊 Top Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=Sp20-bse-030&layout=default&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000
-
+[https://github-readme-stats.vercel.app/api/top-langs/?username=Sp20-bse-030&layout=default&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp20-bse-030&layout=compact&theme=tokyonight)
 
 🔥 Streak & Contributions
 
