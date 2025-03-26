@@ -38,7 +38,7 @@
 
 🔥 Streak & Contributions
 
-🔗 https://github-readme-streak-stats.herokuapp.com/?user=Sp20-bse-030&theme=tokyonight
+🔗 https://github-readme-streak-stats.herokuapp.com/?user=Sp20-bse-030&theme=tokyonight(https://github.com/Sp20-bse-030)
 
 🏆 Profile Stats
 🔗 https://github-readme-stats.vercel.app/api?username=Sp20-bse-030&show_icons=true&theme=tokyonight
