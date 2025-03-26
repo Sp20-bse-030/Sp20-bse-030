@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Haider Abbas!
 
-<!--
-**Sp20-bse-030/Sp20-bse-030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Software Engineer with expertise in full-stack web development.⚡ Specialized in MEAN (MongoDB, Express.js, Angular, Node.js) & MERN (MongoDB, Express.js, React, Node.js) Stacks.🚀 Currently working as a Full Stack Developer using Angular, PostgreSQL, and Node.js.🌱 Exploring Machine Learning, particularly in Deep Learning & Computer Vision.🎯 Aspiring to pursue a Master's in Computer Science, focusing on Machine Learning.💼 Looking to start a business after office hours.
 
-Here are some ideas to get you started:
+📌 My Skill Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+
+📊 Top Languages
+
+
+
+🔥 Streak & Contributions
+
+
+
+🏆 Profile Stats
+
+
+
+📈 Activity Graph
+
+
+
+🚀 Profile Overview
+
+
+
+💋 Connect with Me
+
+GitHub: Sp20-bse-030
+
+LinkedIn: Haider Abbas
+
+Email: haider226396@gmail.com
+
+
