@@ -55,9 +55,9 @@
 
 💋 Connect with Me
 
-GitHub: Sp20-bse-030
+GitHub: [Sp20-bse-030](https://github.com/Sp20-bse-030)
 
-LinkedIn: Haider Abbas
+LinkedIn: https://www.linkedin.com/in/haider-malik-924189230
 
 Email: haider226396@gmail.com
 
