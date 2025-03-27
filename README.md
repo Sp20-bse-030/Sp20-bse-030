@@ -1,13 +1,16 @@
 👋 Hi, I'm Haider Abbas!
 
-💻 Passionate Software Engineer with expertise in full-stack web development.
-⚡ Specialized in MEAN (MongoDB, Express.js, Angular, Node.js) & MERN (MongoDB, Express.js, React, Node.js) Stacks.
-🚀 Currently working as a Full Stack Developer using Angular, PostgreSQL, and Node.js.
-🌱 Exploring Machine Learning, particularly in Deep Learning & Computer Vision.
-🎯 Aspiring to pursue a Master's in Computer Science, focusing on Machine Learning.
-💼 Looking to start a business after office hours.
+💻 Passionate Software Engineer with expertise in full-stack web development.  
+⚡ Specialized in MEAN (MongoDB, Express.js, Angular, Node.js) & MERN (MongoDB, Express.js, React, Node.js) Stacks.  
+🚀 Currently working as a Full Stack Developer using Angular, PostgreSQL, and Node.js.  
+🌱 Exploring Machine Learning, particularly in Deep Learning & Computer Vision.  
+🎯 Aspiring to pursue a Master's in Computer Science, focusing on Machine Learning.  
+💼 Looking to start a business after office hours.  
 
-📌 My Skill Set
+---
+
+## 📌 My Skill Set
+
 <table>
   <tr>
     <td><h3>Frontend</h3></td>
@@ -28,39 +31,33 @@
       <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
   </tr>
 </table>
 
-📊 GitHub Stats
+---
 
-📊 Top Languages
+## 📊 GitHub Stats
 
+### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sp20-bse-030&layout=compact&theme=tokyonight)
 
-🔥 Streak & Contributions
+### 🔥 Streak & Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sp20-bse-030&theme=tokyonight)
 
+### 🏆 Profile Stats
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=Sp20-bse-030&show_icons=true&theme=tokyonight)
 
-🏆 Profile Stats
-🔗 https://github-readme-stats.vercel.app/api?username=Sp20-bse-030&show_icons=true&theme=tokyonight
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sp20-bse-030&theme=tokyo-night)
 
+### 🚀 Profile Overview
+![Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sp20-bse-030&theme=tokyonight)
 
+---
 
-📈 Activity Graph
-🔗 https://github-readme-activity-graph.vercel.app/graph?username=Sp20-bse-030&theme=tokyo-night
-
-
-🚀 Profile Overview
-
-🔗 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sp20-bse-030&theme=tokyonight
-
-💋 Connect with Me
-
-GitHub: [Sp20-bse-030](https://github.com/Sp20-bse-030)
-
-LinkedIn: https://www.linkedin.com/in/haider-malik-924189230
-
-Email: haider226396@gmail.com
-
-
+## 💬 Connect with Me  
+🔗 **GitHub:** [Sp20-bse-030](https://github.com/Sp20-bse-030)  
+🔗 **LinkedIn:** [Haider Abbas](https://www.linkedin.com/in/haider-malik-924189230)  
+📧 **Email:** haider226396@gmail.com  
